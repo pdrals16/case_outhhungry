@@ -20,7 +20,7 @@ Este projeto é responsável por gerar, transformar e processar dados fictícios
      - **trusted**: Contém dados transformados e validados.
      - **refined**: Possui dados refinados e agregados.
 
-![Logo do Projeto](docs\images\tables.png)
+![Logo do Projeto](docs/images/tables.png)
 
 2. **Orquestração com Apache Airflow**:
    - Três DAGs principais controlam os processos:
