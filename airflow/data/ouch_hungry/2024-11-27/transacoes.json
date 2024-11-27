@@ -1,0 +1,704 @@
+{
+    "transactions": [
+        {
+            "id": "22eb1b5a-9370-48c0-90be-e8d421ac0626",
+            "customer_id": "11289b52-7116-4886-8aa2-c08df61ef8f1",
+            "product_id": "2",
+            "city": "Petr\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "44d0eb78-a948-4ffd-a3fe-2fc8f9f792ab",
+            "customer_id": "14391944-ccd2-4732-a823-7d39d0d7d1d6",
+            "product_id": "1",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f99fe884-a7b7-4d0f-abbb-d814caf0942b",
+            "customer_id": "4ee9a00a-9906-433f-9c90-82f41445a783",
+            "product_id": "2",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "03f40f8a-fb5c-468b-8af6-d75a2237bd05",
+            "customer_id": "12377510-c288-4ae9-80de-4d6550ce7f6b",
+            "product_id": "2",
+            "city": "Sorocaba",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "ebb1aa4b-c71f-4287-8acc-1a33d0e3328d",
+            "customer_id": "3c05493b-eaf1-4876-abdf-f58f22605bc3",
+            "product_id": "2",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "cc397078-e56d-4f70-8e5a-8def7cd29080",
+            "customer_id": "b4b0f12d-93fc-4072-924c-4cdc91c3f27b",
+            "product_id": "2",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "be796679-fccf-4c6b-8774-6c3e84a67cbd",
+            "customer_id": "f97e3235-dc45-4dcc-a46c-056213a854b0",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "123c0aeb-ed91-4d04-8cd2-9dc785503d2a",
+            "customer_id": "f045d29b-955d-47eb-af68-c19ac00825a5",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "5272c43d-739c-4170-bf86-640268aabba3",
+            "customer_id": "92848896-3622-4f3a-b8fa-031e5e13deea",
+            "product_id": "1",
+            "city": "Maring\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "108b5a6d-a501-4b5c-89b0-a0df0333004a",
+            "customer_id": "95ff3b24-a359-4d5b-ac9a-cd0982eb3095",
+            "product_id": "2",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "4c17f6fc-a3ef-4aa4-a7bb-24e9c140fe68",
+            "customer_id": "d99fa5bc-58a8-4603-8bcb-4f9da60509b0",
+            "product_id": "1",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "059b863e-2b5e-4c53-a810-4bb7718ab2ec",
+            "customer_id": "13fb98c0-0eef-4c53-b689-6f57faa0c596",
+            "product_id": "2",
+            "city": "Londrina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "32b2d1ba-8560-4bd2-b87b-a5676af4a9d4",
+            "customer_id": "a9251d9e-25bb-4337-98b4-5908928bc5e3",
+            "product_id": "1",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "06759870-9b2b-4c9d-b8a0-ef10f1442778",
+            "customer_id": "f7cb5a9b-b841-48a6-99d9-da8e1c12edf8",
+            "product_id": "1",
+            "city": "Maring\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "7ab40ad8-8719-4e39-920f-2173749797ef",
+            "customer_id": "3201b3d6-33a0-4f04-8d9b-7b159aa411b0",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "411be3f4-bb0c-4681-af3d-6799d81b8af3",
+            "customer_id": "74c4f334-058c-429f-96f6-e9b52bb896bb",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "5ef94b04-3675-4566-8d22-8e2d8164a715",
+            "customer_id": "c4968063-6a76-4a86-8458-c02033a71d80",
+            "product_id": "2",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "002d9f78-9785-43ea-ae3d-b71bbafad5a2",
+            "customer_id": "b01df1eb-a723-44c6-abc5-7d745bbb395a",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "1534709c-5290-4676-adb6-1bbdd3308aea",
+            "customer_id": "6f7b2c70-44de-49c8-8c36-7045f555b909",
+            "product_id": "1",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "0539a877-e8d8-4ab8-9095-0afa1338bfeb",
+            "customer_id": "1e1d660e-8a16-476d-bc2f-f22bfc3ea8e9",
+            "product_id": "1",
+            "city": "S\u00e3o Jos\u00e9 do Rio Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "935cef02-70a5-4349-b320-1606d9658b5b",
+            "customer_id": "8bae41a4-e6d0-45d3-a7cc-325bdc720276",
+            "product_id": "1",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "d560771c-f740-4c5d-99be-974de0ed206b",
+            "customer_id": "887fa880-f81a-4b87-8c9b-6abf5fef92d3",
+            "product_id": "1",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "9b64a970-202a-4fa9-aafa-4f87de6960e5",
+            "customer_id": "5dce6a71-264f-4e90-a327-eeef1c371855",
+            "product_id": "2",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "fbf750c0-2cd6-4baa-a574-3a338bec6be1",
+            "customer_id": "46705a74-d5a4-4b8b-999c-9f25656e7a4d",
+            "product_id": "2",
+            "city": "Petr\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "2728bc77-97f6-4d12-8de6-7e6db737ba67",
+            "customer_id": "15d63dff-42d1-422b-bd96-6290275af702",
+            "product_id": "1",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "39709ef2-cf48-4370-8242-eb747f98e241",
+            "customer_id": "5cb60693-6726-4050-8288-f8ad7664585c",
+            "product_id": "1",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "6c40238f-89dd-4298-948a-246817f317e9",
+            "customer_id": "272ceb27-0c99-41a6-bb54-94d40a0e0f94",
+            "product_id": "2",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "76b1d27d-a820-40af-8d15-99fa769fac3e",
+            "customer_id": "76116587-7af7-4d81-af6b-ce6bc5bcca9d",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "87ce42d0-03b7-408c-93ec-20ea7209ea56",
+            "customer_id": "590f1d86-5449-4170-854f-3334543703d0",
+            "product_id": "1",
+            "city": "Arax\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "d7aa856e-bc17-4cbe-af47-bcba95b672db",
+            "customer_id": "996ad2b9-7cc0-41b1-8cb2-4d0c57bfd5ed",
+            "product_id": "2",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "fbe60dbb-6f06-4907-b3f8-9deffd5e500c",
+            "customer_id": "31597c3c-fde4-4f4a-9e21-6ab8568dea1e",
+            "product_id": "1",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "6aa19079-9ae0-4e15-96f3-fa68c129ca69",
+            "customer_id": "086b7b4c-d321-44c9-ba0a-5cebe9ab0919",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "8862013c-37ef-49a7-8c30-aa715b3b611d",
+            "customer_id": "0f34f162-e9b1-4b68-8ebe-e0db62da22be",
+            "product_id": "1",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "60ec6f32-bbe2-4296-93d2-bcc23320c4d1",
+            "customer_id": "1d7dc3c4-4442-4d21-a059-575ad9852038",
+            "product_id": "2",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "62a98dd3-ecfa-4c8c-8251-bf6ad09cc62f",
+            "customer_id": "f5f7b140-dcf5-40c0-a3e0-8403945f1c3f",
+            "product_id": "1",
+            "city": "Londrina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "1171aafa-ec14-4563-932d-b1fde698d298",
+            "customer_id": "3089dd8e-6752-45ea-bb35-830ce59d2d57",
+            "product_id": "1",
+            "city": "S\u00e3o Jos\u00e9 do Rio Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "ede270c2-9743-4844-a519-e1605a2bab00",
+            "customer_id": "bcd7ce3b-e299-4795-89ab-99d6b4925421",
+            "product_id": "1",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "9087cbc0-e745-4425-90da-e069801c2a8d",
+            "customer_id": "7b37393c-71fa-46eb-a01a-baf802305565",
+            "product_id": "2",
+            "city": "Sorocaba",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "bfed2267-694d-4524-bcd5-b825ad1f2db7",
+            "customer_id": "53b3684a-3436-49c0-8618-68ee87d4d6c3",
+            "product_id": "2",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "c07ccba0-817d-4606-8de7-6b4b81f054c2",
+            "customer_id": "37b3c45c-eb2f-4e14-ad10-d1fd191547ba",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "fb79e032-e6c1-4ed3-8572-502e219afa97",
+            "customer_id": "4e841870-b143-4f84-9a0d-84202e1a518f",
+            "product_id": "1",
+            "city": "Arax\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "485493f1-4e5e-4bcb-a920-63fc122c63f4",
+            "customer_id": "cd3c61bf-2060-4e14-8dcf-cd40bc7c3a19",
+            "product_id": "1",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "3890e540-e03c-4fee-b99d-b5faa0c7d85d",
+            "customer_id": "ba298337-9a94-460d-9f9e-f07ecc89b26c",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "23c7e995-e412-402f-b3e7-271afebdb0b2",
+            "customer_id": "227511aa-1143-40df-9883-a1e76e061f6f",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "0d92addf-69d9-49d9-9dd0-678688147dc2",
+            "customer_id": "40a0d658-bb6b-47c5-87e5-3d32bd2711db",
+            "product_id": "2",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "6fc2b9bc-0c3d-4ae1-bfa3-2c859e50c4a8",
+            "customer_id": "ee9f0dc9-aeb3-415a-acae-95eec148f0d5",
+            "product_id": "2",
+            "city": "Maring\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "8d5fd457-a646-4540-89cc-2309b3682466",
+            "customer_id": "feaa2afc-7696-4e79-a703-0142ecc7a2f7",
+            "product_id": "2",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "df178a4c-bc99-4673-8c47-a7fff75937c7",
+            "customer_id": "1b2a64e0-34a5-416a-85df-3dc3476f82f5",
+            "product_id": "2",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "00afd2d7-b247-4be0-acd6-d6c860230967",
+            "customer_id": "cdfb2597-f387-45bf-be75-d916ce3e777b",
+            "product_id": "2",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "b1c4122e-a976-498b-91c5-ba5ee7782667",
+            "customer_id": "07f29d9a-903b-43ff-b0bc-749019bdf2ae",
+            "product_id": "2",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "65155404-560f-43f9-8e59-d8af5db4c2c5",
+            "customer_id": "e957ce27-ff20-4a65-9af8-af5af2476cbb",
+            "product_id": "1",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "6cbd4b70-33a4-4489-98fc-f2b3622ad1c5",
+            "customer_id": "dd3dd568-b844-4033-b8a7-72212db7e0ee",
+            "product_id": "2",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "01354262-f330-4658-8995-c6ac295d521d",
+            "customer_id": "53674ca1-d767-47e1-8af0-268ba892c067",
+            "product_id": "2",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "dab3754a-f2ae-488c-ad0d-7df5149f5f74",
+            "customer_id": "732cf9fd-81c9-4de0-965b-9b6cb43d807f",
+            "product_id": "2",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f98d70f6-0622-4ca3-9575-e7185b980ea0",
+            "customer_id": "63f454eb-9147-46b9-925d-b0f3963a899d",
+            "product_id": "1",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "2605ae70-0f49-4320-8fcb-e45faf7183b4",
+            "customer_id": "5609e4f8-ed59-4b79-8f35-d4c20c622f09",
+            "product_id": "2",
+            "city": "Sorocaba",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "52504abf-7b66-4ff1-85ce-616d3d667acc",
+            "customer_id": "df8bc09a-d605-431f-948f-f850f4758718",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f476abd2-abd8-450c-af70-75ca1d24f559",
+            "customer_id": "ea861e71-da33-4712-bf37-9b499b11a1f9",
+            "product_id": "2",
+            "city": "S\u00e3o Jos\u00e9 do Rio Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f3693699-1bb8-491c-8628-4d4ebb689411",
+            "customer_id": "9ec7b5f6-e3ad-471c-b743-7b58b82f55fc",
+            "product_id": "2",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "fc94b3dc-3182-4681-b239-978616e4e211",
+            "customer_id": "e901b1ec-aee5-4fb0-ae92-8beb7c79c9e2",
+            "product_id": "1",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "911ffc32-1c0e-4629-aa7e-cc7612bd37bf",
+            "customer_id": "e878d952-6f4d-499b-9eeb-f8f0e49c274e",
+            "product_id": "1",
+            "city": "Petr\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "044f1b40-2070-4229-8e3d-46970d853def",
+            "customer_id": "dccfac1c-7eec-447e-afc5-4672ed5de9d6",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "0fe2e7b4-7f73-4f5b-9b8e-00eda3f999ab",
+            "customer_id": "db470e37-6d56-4544-9baf-ba81d62da491",
+            "product_id": "2",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "76b2f6e6-231f-4117-a82e-947d79d90b4a",
+            "customer_id": "7cf081b3-e9c6-40b1-947f-40c88a15f3a3",
+            "product_id": "2",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "48a202ab-ed03-4ce3-8a3f-fd6ae2cf590a",
+            "customer_id": "d1155111-1316-4392-98ca-fd403ce869d8",
+            "product_id": "2",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "7bba8587-b708-4545-a02f-97d9dc1d8af3",
+            "customer_id": "961e7a0e-e7c6-447a-8dd1-7cf6db32c059",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "6b001885-0925-493e-abbb-309d2deeed0f",
+            "customer_id": "b466f811-dfbc-4e2b-a10c-6880f1eabf11",
+            "product_id": "1",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "e5769cd2-df91-413c-a146-cd763d9b1e96",
+            "customer_id": "27338c07-e2fd-4756-b93d-b5449a129301",
+            "product_id": "1",
+            "city": "Ponta Grossa",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f6e8a55b-90dd-4534-994a-4407b036b0b3",
+            "customer_id": "4a092fc1-2ef5-4df4-a5be-c679007b3b44",
+            "product_id": "1",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "97350576-04e1-4a54-8c06-1c7bc302ab7f",
+            "customer_id": "8744a956-0e95-44f9-8a85-9807ac64572f",
+            "product_id": "2",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "be3f8a54-14fa-4631-ab4a-8dd483d83dcb",
+            "customer_id": "9185ea8d-7964-4a22-8777-ef30772a600f",
+            "product_id": "2",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "c583bf60-706a-4921-a8c8-8fd5ba8882c7",
+            "customer_id": "220eeba8-6b6c-4bda-a468-f50a0f453626",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "5d1b2bf7-fc49-4281-8cc6-c6d4a8935666",
+            "customer_id": "17709e2e-a480-4a51-831b-3aa503cc4ddd",
+            "product_id": "2",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "46a226ff-aef3-4ad5-ad7f-49c6e7353038",
+            "customer_id": "e06331c7-e843-471b-b1f1-9bbe2a036d51",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "9cb067e7-296a-40e6-8c41-5eadbe5aa9d1",
+            "customer_id": "09f12a5c-5e81-413b-9ae9-f3454e7db360",
+            "product_id": "2",
+            "city": "Campinas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "f52f8109-f100-4cf6-bf7f-dd4dce7c28ff",
+            "customer_id": "f54a0eaf-588c-4630-a081-9c73b7ca0f91",
+            "product_id": "1",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "30c9efe9-ddf9-4029-8a07-1b6db0f9fdcc",
+            "customer_id": "3909fbfa-2765-48ed-abf9-f1370b1293c5",
+            "product_id": "2",
+            "city": "Londrina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "2a9b6b96-a066-49d8-8260-ef13b3a5140d",
+            "customer_id": "4161e7d5-8ba8-4dc6-91d8-59b7a292d5b7",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "dce2ff7c-2aa4-4be0-9bbf-ecfea0383894",
+            "customer_id": "4d137f2f-4eed-4821-b2e1-ec8b3734a289",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "29f37c24-4ec3-4ff7-929f-c409875a87e6",
+            "customer_id": "f96b0337-31c8-437a-b95c-f5425ecdc94b",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "717b7804-81fd-4f4f-bd42-be28c2a96f1b",
+            "customer_id": "6661c83c-d257-49b1-85c5-5c17699cf944",
+            "product_id": "1",
+            "city": "Po\u00e7os de Caldas",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "7ee2703c-53a2-44ba-ba1e-d735786352e1",
+            "customer_id": "a5c6160f-0c7c-4374-a91d-748921cfcdc1",
+            "product_id": "2",
+            "city": "Maring\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "00b12c8a-3b06-4038-a50c-c728b0d16331",
+            "customer_id": "7dd844e2-677b-4919-92bd-3335566c4def",
+            "product_id": "1",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "3b7bb05a-6d03-4496-ae3b-119e39ce187a",
+            "customer_id": "9b6959a1-6bf0-4d96-bff1-56b1779337b1",
+            "product_id": "1",
+            "city": "Teres\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "b4dba349-7a37-432f-a1bc-0830b3d0c7f5",
+            "customer_id": "c567cb99-9fd9-4c8e-8b85-f823aa995f88",
+            "product_id": "1",
+            "city": "Arax\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "1b938d7c-4f56-4a04-a7ac-e9846d6f53af",
+            "customer_id": "0ef31ff9-cf77-4091-a667-c139afbf2932",
+            "product_id": "1",
+            "city": "Petr\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "59bf2573-e21e-4279-95c3-e753babc1366",
+            "customer_id": "ec57b439-a6b2-4274-b289-5847486b2f3e",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "34532eb3-c6ed-461f-b728-2c1ef87225e6",
+            "customer_id": "64b60423-584f-40d1-aa92-28722f45ba74",
+            "product_id": "1",
+            "city": "Arax\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "25841257-7dfd-40fa-9ab1-7419cbf511ae",
+            "customer_id": "dcc2b83a-e358-4ea9-822d-65c908e2f300",
+            "product_id": "2",
+            "city": "Ouro Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "7c4b41f4-2f81-422e-9fdc-90d97afa4f9e",
+            "customer_id": "07b12009-51ce-40f4-95b5-e7c150dfbded",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "0caa39be-23ef-480f-9d48-f939acee2cc5",
+            "customer_id": "f16946ff-767a-46b6-911b-f3eaf79f20a7",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "0200f614-2c82-49c4-bb50-600af1f32acf",
+            "customer_id": "e5697050-8254-4e2b-8252-fa4dbab43e18",
+            "product_id": "1",
+            "city": "Diamantina",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "c29c6ce0-61cb-4089-9735-5b73207100ce",
+            "customer_id": "f7596874-7ee1-4051-9fcb-1d1fa2ff6916",
+            "product_id": "2",
+            "city": "Petr\u00f3polis",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "72dd4404-5f58-42de-8a7d-b9425950b74b",
+            "customer_id": "04549986-7ea3-455c-87c1-a06ec7d92672",
+            "product_id": "2",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "bf66acbf-79a1-4e3b-961b-94e0454d45e9",
+            "customer_id": "3e08e800-ee81-4183-9f7d-be75017e7c18",
+            "product_id": "2",
+            "city": "Ribeir\u00e3o Preto",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "16f55343-1580-4fdc-941a-c78423b8d9b4",
+            "customer_id": "64c34d3c-c0a4-45fb-9213-493c5b6bb48b",
+            "product_id": "1",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "ad2f0770-d5f8-4d95-8995-3a0dbf9fa438",
+            "customer_id": "c301495a-e6b7-4da6-9fed-b7bc9983ad16",
+            "product_id": "1",
+            "city": "Resende",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "5bf96e9f-0413-4288-94e6-a58b13c5d14d",
+            "customer_id": "34349910-d1e7-497d-b3a4-4dfc60a77383",
+            "product_id": "2",
+            "city": "Nova Friburgo",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "9e6ad6c1-a7cf-4f76-9007-4d7112ba0597",
+            "customer_id": "45b99191-7569-4908-b33f-4f4c95d67bf4",
+            "product_id": "2",
+            "city": "Foz do Igua\u00e7u",
+            "created_at": "2024-11-27 00:00:00"
+        },
+        {
+            "id": "15e33f27-bf4f-48c5-bc9c-c21763f4fef7",
+            "customer_id": "7a1c6dee-8e74-43d4-8fc6-7bebefbd647a",
+            "product_id": "2",
+            "city": "Arax\u00e1",
+            "created_at": "2024-11-27 00:00:00"
+        }
+    ]
+}

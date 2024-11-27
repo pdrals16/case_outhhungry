@@ -1,0 +1,12 @@
+schedule_interval: '0 1 * * *'
+context:  
+  refined:
+    sales_metrics:
+      view_sql_name: sales_metrics_refined
+      insert_sql_name: sales_metrics_insert_refined
+      target_db_name: outhhungry_refined
+      deliver:
+        api: true
+        sftp: true
+        frequency: daily
+        db_name: outhhungry_refined

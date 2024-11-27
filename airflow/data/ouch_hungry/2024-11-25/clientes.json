@@ -1,0 +1,1014 @@
+{
+    "customers": [
+        {
+            "id": "4bdb65eb-84f5-4545-9837-b313665c54af",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": null,
+            "ddd": 61,
+            "phone": "99935-6595",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "718c872b-0593-4f6d-b33a-6316d20be1b1",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augustogmail.com",
+            "cep": "59974-410",
+            "ddd": 92,
+            "phone": "91202-1138",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0070b903-48d3-4654-87a3-fe6052818536",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "22959-928",
+            "ddd": 12,
+            "phone": "92599-2057",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0070b903-48d3-4654-87a3-fe6052818536",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "22959-928",
+            "ddd": 12,
+            "phone": "92599-2057",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "74ed4de7-d63d-4f41-a39d-39bce9e11ff7",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "14041-922",
+            "ddd": 42,
+            "phone": "92249-8801",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0691dcdb-13f9-4b25-a0cb-7db376a50f2a",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "84353-349",
+            "ddd": 48,
+            "phone": "97716-7337",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "e9bd120b-17fa-4195-9d25-98790971a398",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "90977-213",
+            "ddd": 43,
+            "phone": "97588-6369",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "f820be19-1e72-40a1-b810-ca9954a3c09c",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "75276-441",
+            "ddd": 14,
+            "phone": "92125-5876",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "a3d6c6d1-21c5-4be5-ac64-1742d2951b88",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "28419-673",
+            "ddd": 74,
+            "phone": "96994-4098",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "8eb3918b-1f92-460e-8532-2ed46628048e",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "68115-157",
+            "ddd": 18,
+            "phone": "99520-2237",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "1e6daaa9-630b-4c13-b007-9cc0bd8ddd65",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "92733-261",
+            "ddd": 75,
+            "phone": "92278-9706",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0ce769dd-50ba-41c6-9065-4be998aec122",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "93952-145",
+            "ddd": 71,
+            "phone": "93316-7040",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ad9154b7-7ca8-427b-9ceb-03539cf5b3d8",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "17511-547",
+            "ddd": 18,
+            "phone": "99109-2117",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "8c4e225e-864d-4b07-9fd0-471587129296",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "62940-317",
+            "ddd": 26,
+            "phone": "98617-6446",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "4286573f-356f-4473-b45e-970e99fb1592",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "57505-867",
+            "ddd": 12,
+            "phone": "93338-2290",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "aa8e4809-89f9-43fe-8278-3dd47820810e",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "93710-405",
+            "ddd": 62,
+            "phone": "98938-6134",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "3d1169e0-9ce7-42cd-898a-badbf09156d4",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "54322-310",
+            "ddd": 96,
+            "phone": "96627-8843",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "b7f84175-21af-425e-b5b1-b6f044b794e0",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "13522-719",
+            "ddd": 55,
+            "phone": "97303-2814",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "b8a3dd6b-c460-4398-ae73-9e1cdaee13e7",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "71761-307",
+            "ddd": 71,
+            "phone": "94126-6603",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "cd43f73b-0f72-4fa0-a810-eec3a66f7675",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "71610-457",
+            "ddd": 36,
+            "phone": "95749-4389",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "1c715cbf-6990-45c0-9bfc-29efd7afedf0",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "47206-126",
+            "ddd": 54,
+            "phone": "99601-3611",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "a98f3936-7d38-4ea2-9910-65d05485554a",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "18826-437",
+            "ddd": 76,
+            "phone": "92422-5631",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ab327b72-2de9-4c84-8eb0-bedc401f63e4",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "94371-798",
+            "ddd": 51,
+            "phone": "97795-6708",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "f151d434-83c7-4601-8984-e4fc201ffb1a",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "68237-185",
+            "ddd": 72,
+            "phone": "99598-4012",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "a0c9fee1-f3d9-4680-a5ab-4c8efb974a25",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "38174-416",
+            "ddd": 40,
+            "phone": "93127-1469",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "4193f74e-2c7d-4582-9adf-a96b3cb6a578",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "11126-608",
+            "ddd": 51,
+            "phone": "96629-5659",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2f2e1ad6-1cab-494e-9bb6-8566e3333acc",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "42355-986",
+            "ddd": 63,
+            "phone": "91611-5799",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ba741536-99f4-445a-ac6a-d5ea48aa42b4",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "48845-484",
+            "ddd": 41,
+            "phone": "98504-5913",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "7a0bf90d-5f66-4991-a336-7c71fe9a6f50",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "26845-832",
+            "ddd": 59,
+            "phone": "96992-2874",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "b3ac84b7-833f-47c5-8b9f-aabc4ff44e74",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "38120-836",
+            "ddd": 81,
+            "phone": "94630-7826",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "dde085b4-9378-42c4-ad1e-cc459d0cd255",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "14242-730",
+            "ddd": 85,
+            "phone": "99722-2291",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "845cdb8f-189a-4cb9-bd43-4a2a88602bd5",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "60124-212",
+            "ddd": 27,
+            "phone": "93884-1214",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "d1cb7bdb-c36b-4d8a-9256-9de15d17a3d6",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "33682-202",
+            "ddd": 42,
+            "phone": "91584-2280",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "6ee9cffd-61c0-4c63-a3f5-06b5e2244820",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "37728-261",
+            "ddd": 84,
+            "phone": "99083-1179",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "9cb69a4d-d28f-4f33-80d2-621e70bffd18",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "84484-896",
+            "ddd": 62,
+            "phone": "97402-7344",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0ac706bd-7ebe-488b-bc24-8822ae0678cb",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "63402-725",
+            "ddd": 73,
+            "phone": "94133-8637",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "70aada9f-3ae5-4b70-a502-afa210c82ece",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "42687-840",
+            "ddd": 23,
+            "phone": "99310-2489",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ae6a6181-992f-4ca1-bc12-6fa7893254e4",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "70917-849",
+            "ddd": 97,
+            "phone": "97843-9770",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "1512e2a2-cb1b-4a99-bb7b-92bf4d9aa410",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "87318-660",
+            "ddd": 76,
+            "phone": "93743-3189",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "11c295c9-c3bc-4244-9c34-fbb61d4a2eef",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "92351-396",
+            "ddd": 23,
+            "phone": "92665-4409",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "bc4e3c38-4445-4f56-a82f-aa139fef5cb9",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "28720-783",
+            "ddd": 86,
+            "phone": "92789-1284",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "a2bafc1d-9ae0-4697-b77a-c4153095f7ed",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "46007-479",
+            "ddd": 52,
+            "phone": "92236-3230",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "6b6b9f8e-b9b8-467f-b534-c56a939f0ca1",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "15090-231",
+            "ddd": 40,
+            "phone": "93258-7075",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "4feeee82-29b2-400b-ae94-0a656f745f9f",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "92163-964",
+            "ddd": 19,
+            "phone": "94881-9617",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "80e200a3-6907-40d0-8834-643cd9c4462f",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "20688-543",
+            "ddd": 55,
+            "phone": "94565-8552",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2069e937-538f-4e24-ba3f-e2797e12bdb3",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "39149-427",
+            "ddd": 48,
+            "phone": "99663-4709",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5d9103a1-9a5a-4b43-84f2-46c540da154e",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "71766-116",
+            "ddd": 60,
+            "phone": "91297-7932",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5768b6ce-9c8f-46f1-8a62-28144af5030b",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "15857-844",
+            "ddd": 42,
+            "phone": "98505-4398",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "f8f0904e-c009-4fd6-8076-6c3123937569",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "97807-615",
+            "ddd": 45,
+            "phone": "98840-5883",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "72b71a99-3b93-43b1-bb1d-d091a55632ce",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "27386-405",
+            "ddd": 62,
+            "phone": "94818-6037",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "cb841f00-b2f7-442e-a275-78bdcfc58a02",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "88054-353",
+            "ddd": 42,
+            "phone": "96020-4695",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5550172b-febf-45ea-a4db-3652323b1ed0",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "85245-420",
+            "ddd": 94,
+            "phone": "98677-5798",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "c1b6bf9a-783f-416b-863f-4fd98472fe6e",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "55228-633",
+            "ddd": 23,
+            "phone": "93059-3782",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "fec58285-2b55-4d6e-8e65-d1ddc5679d4c",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "11133-611",
+            "ddd": 23,
+            "phone": "92007-2049",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "fa58fed1-bcfe-42f7-bc87-080e4bf88172",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "30464-978",
+            "ddd": 45,
+            "phone": "91434-1936",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "25dcd4b6-d352-40cf-afbf-8ba93b78b60b",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "27426-609",
+            "ddd": 33,
+            "phone": "92712-7228",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2260aa9c-b0f6-4030-9552-5af4e6a60fa7",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "16359-554",
+            "ddd": 41,
+            "phone": "92407-7390",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "6fef50e6-e49e-43f3-920d-748708df9c1b",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "63418-658",
+            "ddd": 87,
+            "phone": "96943-4824",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "929d5ecc-84f9-4dd5-a466-5b17ac4e17a5",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "28478-956",
+            "ddd": 36,
+            "phone": "93323-3997",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "fcc330c4-49b8-479e-886e-2749e4d8411c",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "93209-381",
+            "ddd": 15,
+            "phone": "92693-1046",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "9fca9771-3de8-4dd7-979a-6bf86c6c2fc6",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "26158-841",
+            "ddd": 19,
+            "phone": "99857-6784",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "6b388da1-0d4e-4606-91f0-d6d97f2785cd",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "93383-986",
+            "ddd": 45,
+            "phone": "95019-6876",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "335100b7-4b3f-4208-a717-90edaa030068",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "43823-742",
+            "ddd": 77,
+            "phone": "96561-4612",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "20c22892-54bc-4d0e-a857-5ff56b93064e",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "64140-741",
+            "ddd": 50,
+            "phone": "97609-7910",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "45cb3f25-eac7-4831-8258-067576b6f6ee",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "36607-791",
+            "ddd": 32,
+            "phone": "97714-4914",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "c9e08024-93c5-4a19-a000-cf45e16c4f29",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "99630-380",
+            "ddd": 49,
+            "phone": "95103-8099",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5f3c1e70-4a4a-461c-8dbb-37e2b56f939e",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "74341-125",
+            "ddd": 31,
+            "phone": "94055-4668",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "d7307645-b3a0-4394-bff2-1b5cf4ac84cd",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "43262-506",
+            "ddd": 70,
+            "phone": "98584-6989",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "fe5ecbbe-066b-423f-bd9d-ba09a58aa9c0",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "59817-673",
+            "ddd": 45,
+            "phone": "91677-5333",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "e044a789-256f-466c-a94e-998a2d479aac",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "80591-270",
+            "ddd": 59,
+            "phone": "91541-5279",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2fdf98b7-1224-4033-92fc-ea5f74062491",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "89256-782",
+            "ddd": 92,
+            "phone": "91276-7841",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "961f7afe-cf8f-45f2-aaf1-6ceaeef29077",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "46247-186",
+            "ddd": 42,
+            "phone": "95275-2563",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "a36921b9-dc0c-4513-b2e5-d400e73e7cbc",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "69566-478",
+            "ddd": 18,
+            "phone": "95133-6050",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "547249a4-3b4d-43ff-a2b7-f5ff2e91985f",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "35251-800",
+            "ddd": 26,
+            "phone": "96224-4381",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "8a6aeeae-bfab-4817-b08f-840805d8ec64",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "86954-440",
+            "ddd": 82,
+            "phone": "97995-5437",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "084cff48-1920-40f3-90f0-249dbcd9b6d7",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "93225-615",
+            "ddd": 96,
+            "phone": "91323-6232",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "7f4671d3-8cce-4bb0-a753-ddbd44b4e62f",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "76274-861",
+            "ddd": 37,
+            "phone": "95049-5320",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "1118bc3a-42e3-4745-958e-bfeeb9777240",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "99128-345",
+            "ddd": 18,
+            "phone": "96551-7546",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5ba48045-502f-4340-93a0-33edb3521808",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "70686-344",
+            "ddd": 62,
+            "phone": "99562-8033",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "95ae1acf-ac8a-4dee-9427-91c90bb0ba47",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "68093-825",
+            "ddd": 59,
+            "phone": "97220-6301",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "55509c19-bc20-4164-90f3-91612e19be6e",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "38167-415",
+            "ddd": 65,
+            "phone": "96015-9101",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "0c7d7e53-f814-4853-9648-ed14896cbd10",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "26453-296",
+            "ddd": 68,
+            "phone": "96275-6990",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "9be4ae7f-b80e-4148-925e-36233e91556a",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "19696-759",
+            "ddd": 83,
+            "phone": "91768-2712",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2b43e4fe-2506-41ea-9e3c-6971ab9e2c57",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@hotmail.com",
+            "cep": "23468-737",
+            "ddd": 99,
+            "phone": "97102-4287",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "278ee35d-d03e-43ed-8c9c-31c466107bd0",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@hotmail.com",
+            "cep": "64749-346",
+            "ddd": 76,
+            "phone": "94348-6747",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "da651fa1-58f8-4c93-b85d-5598dc61278e",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@gmail.com",
+            "cep": "27773-769",
+            "ddd": 74,
+            "phone": "99627-1621",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "e356e954-1c9e-45c7-834a-bd9e7e757ac7",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "92215-101",
+            "ddd": 89,
+            "phone": "99430-3842",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "8e9ecd8c-cfe7-489c-b084-979e5fa0fda4",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "53405-265",
+            "ddd": 47,
+            "phone": "96797-2655",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "9df4f905-9e53-4605-b7d1-d36a2d064ec9",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "54057-873",
+            "ddd": 97,
+            "phone": "92063-9408",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "24c97766-9f2d-42c7-871c-610ef59d7aec",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "14577-746",
+            "ddd": 85,
+            "phone": "95189-7957",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ccbd36cf-fc95-4dfb-ae74-f0e667fdcd42",
+            "first_name": "Pedro",
+            "last_name": "Augusto",
+            "email": "pedro_augusto@gmail.com",
+            "cep": "10256-867",
+            "ddd": 88,
+            "phone": "96857-1190",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "b9ebc6cf-fd0b-43a8-a74a-618210b2a1e9",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "72488-961",
+            "ddd": 97,
+            "phone": "97462-6594",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "5bb1e998-2d70-4a67-95e0-d7918030552c",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "93169-376",
+            "ddd": 90,
+            "phone": "97386-3833",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "2549cbf2-e082-4e93-ac34-ea809d9da11b",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "55536-776",
+            "ddd": 80,
+            "phone": "97386-8073",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "578cab96-58a3-4865-b7d6-7985616c0819",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@hotmail.com",
+            "cep": "17454-171",
+            "ddd": 47,
+            "phone": "92804-8554",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "ae0c4ece-9e0d-4207-b155-a605c6b92d64",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "54137-730",
+            "ddd": 32,
+            "phone": "99065-4817",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "1799843c-a7d6-4ce2-bc4c-d2becd652507",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "65901-195",
+            "ddd": 55,
+            "phone": "93798-6345",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "fd633185-c23d-414b-b999-a8221217f8f2",
+            "first_name": "Gabrielle",
+            "last_name": "Camille",
+            "email": "gabrielle_camille@gmail.com",
+            "cep": "51056-964",
+            "ddd": 19,
+            "phone": "92513-9279",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "73fdf3e6-5989-4961-b45a-fa0c6f20e272",
+            "first_name": "Pedro",
+            "last_name": "Camille",
+            "email": "pedro_camille@hotmail.com",
+            "cep": "38885-948",
+            "ddd": 39,
+            "phone": "92912-8963",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "473198b5-b2ff-4adf-8f4b-c078a7afde51",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "36051-453",
+            "ddd": 10,
+            "phone": "96922-3255",
+            "created_at": "2024-11-25 18:36:44"
+        },
+        {
+            "id": "60b762b6-bb7c-4242-a0b0-078d0a929269",
+            "first_name": "Gabrielle",
+            "last_name": "Augusto",
+            "email": "gabrielle_augusto@gmail.com",
+            "cep": "25886-768",
+            "ddd": 70,
+            "phone": "93580-2695",
+            "created_at": "2024-11-25 18:36:44"
+        }
+    ]
+}
