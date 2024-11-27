@@ -1,0 +1,58 @@
+schedule_interval: '0 1 * * *'
+contexts:
+  products:
+    table_name: products
+    staged:
+      mode: 'file'
+      source_file: 'produtos.json'
+      ingest_sql_name: 'products_ingest_staged'
+      insert_sql_name: 'products_insert_staged'
+      target_db_name: 'outhhungry_staged'
+    trusted:
+      mode: 'table'
+      insert_sql_name: products_insert_trusted
+      target_db_name: 'outhhungry_trusted'
+    deliver:
+      api: true
+      sftp: true
+      frequency: daily
+      table: products
+      db_name: outhhungry_trusted
+  
+  customers:
+    table_name: customers
+    staged:
+      mode: 'file'
+      source_file: 'clientes.json'
+      ingest_sql_name: 'customers_ingest_staged'
+      insert_sql_name: 'customers_insert_staged'
+      target_db_name: 'outhhungry_staged'
+    trusted:
+      mode: 'table'
+      insert_sql_name: customers_insert_trusted
+      target_db_name: 'outhhungry_trusted'
+    deliver:
+      api: true
+      sftp: true
+      frequency: daily
+      table: customers
+      db_name: outhhungry_trusted
+
+  transactions:
+    table_name: transactions
+    staged:
+      mode: 'file'
+      source_file: 'transacoes.json'
+      ingest_sql_name: 'transactions_ingest_staged'
+      insert_sql_name: 'transactions_insert_staged'
+      target_db_name: 'outhhungry_staged'
+    trusted:
+      mode: 'table'
+      insert_sql_name: transactions_insert_trusted
+      target_db_name: 'outhhungry_trusted'
+    deliver:
+      api: true
+      sftp: true
+      frequency: daily
+      table: transactions
+      db_name: outhhungry_trusted
