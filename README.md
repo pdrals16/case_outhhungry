@@ -8,7 +8,7 @@ O objetivo deste pipeline é entregar um fluxo completo de dados respeitando as 
 
 ## Arquitetura
 
-![Logo do Projeto](docs\images\project.png)
+![Logo do Projeto](docs/images/project.png)
 
 
 
@@ -28,7 +28,7 @@ Este projeto é responsável por gerar, transformar e processar dados fictícios
      - **ingest**: Realiza a ingestão e transformação dos dados, incluindo formatação, validação, deduplicação, envio para uma API e SFTP.
      - **monthly**: Cria tabelas agregadas com métricas por cidade e por produto.
 
-![Logo do Projeto](docs\images\dags.png)
+![Logo do Projeto](docs/images/dags.png)
 
 ---
 
@@ -95,7 +95,7 @@ Foi desenvolvida uma classe chamada [*Transform*](airflow/dags/transform/operati
 
 ## Configuração do Banco de Dados
 
-![Logo do Projeto](docs\images\databases.png)
+![Logo do Projeto](docs/images/databases.png)
 
 ### Database: `outhhungry_staged`
 
